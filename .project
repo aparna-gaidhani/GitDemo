@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>GitX</name>
+=======
+	<name>GitDemo</name>
+>>>>>>> 9dc65fc37c45154a8142ce7c6dcfb43ca4b6c56c
 	<comment></comment>
 	<projects>
 	</projects>
